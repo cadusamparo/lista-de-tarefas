@@ -1,8 +1,13 @@
+[![NPM](https://img.shields.io/npm/l/react)]https://github.com/cadusamparo/lista-de-tarefas/blob/main/LICENSE
+
 # Sobre o projeto
 
 Aplicação em Angular com ajuda de **[Curso de Angular 2 (v17+) Typescript do Básico ao Avançado](https://www.udemy.com/course/curso-de-angular/)
 
 O objetivo do projeto é fazer um site com sua lista de tarefas.
+
+## Site:
+https://cadusamparo.github.io/lista-de-tarefas/browser/
 
 # Objetivos
 
