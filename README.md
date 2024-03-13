@@ -33,7 +33,7 @@ https://cadusamparo.github.io/lista-de-tarefas/browser/
 
 # Tecnologias utilizadas
 - JavaScript
-- CSS
+- SCSS
 - HTML
 - JSON 
 - Angular
